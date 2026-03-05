@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(4, 127, 241);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.cartao {
+    background-color: #ebe7e7;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.titulo {
+    color: rgb(5, 5, 252);
+
+}
+
+.imagem {
+    width: 300px;
+    height: 300px;
+
+
+}
+
+
+button {
+    border: none;
+    background-color: red;
+    color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
